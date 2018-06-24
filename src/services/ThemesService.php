@@ -55,6 +55,7 @@ class ThemesService extends Component
             ['value' => 'ochin', 'label' => Craft::t('sidebar-themes', 'Ochin')],
             ['value' => 'playstation', 'label' => Craft::t('sidebar-themes', 'Playstation')],
             ['value' => 'purpledaydream', 'label' => Craft::t('sidebar-themes', 'Purple Daydream')],
+            ['value' => 'scotlandshop', 'label' => Craft::t('sidebar-themes', 'Scotland Shop')],
             ['value' => 'smooch', 'label' => Craft::t('sidebar-themes', 'Smooch')],
             ['value' => 'snazzy', 'label' => Craft::t('sidebar-themes', 'Snazzy')],
             ['value' => 'spacegrey', 'label' => Craft::t('sidebar-themes', 'Space Grey')],

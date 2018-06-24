@@ -26,6 +26,7 @@
 | Ochin | ochin |
 | Playstation | playstation |
 | Purple Daydream | purpledaydream |
+| Scotland Shop | scotlandshop |
 | Smooch | smooch |
 | Snazzy | snazzy |
 | Space Grey | spacegrey |
